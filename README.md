@@ -9,8 +9,8 @@ Tenho 22 anos e estudo Análise e Desenvolvimento de Sistemas no IFPE Garanhuns.
     <a href="https://www.linkedin.com/in/m%C3%A1yra-andrade-b77961231/">
     <img
         align="left"
-        alt="Java"
-        title="Java"
+        alt="linkedin"
+        title="linkedin"
         width="35px"
     style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </div>
@@ -32,7 +32,7 @@ Tenho 22 anos e estudo Análise e Desenvolvimento de Sistemas no IFPE Garanhuns.
     <img 
     align="left"
     alt="JavaScript"
-    title="JavaScript,"
+    title="JavaScript"
     width="35px"
     style="padding-right:10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
@@ -40,7 +40,7 @@ Tenho 22 anos e estudo Análise e Desenvolvimento de Sistemas no IFPE Garanhuns.
     <img 
     align="left"
     alt="CSS"
-    title="CSS,"
+    title="CSS"
     width="35px"
     style="padding-right:10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
@@ -48,7 +48,7 @@ Tenho 22 anos e estudo Análise e Desenvolvimento de Sistemas no IFPE Garanhuns.
     <img 
     align="left"
     alt="GIT"
-    title="GIT,"
+    title="GIT"
     width="35px"
     style="padding-right:10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
@@ -56,21 +56,21 @@ Tenho 22 anos e estudo Análise e Desenvolvimento de Sistemas no IFPE Garanhuns.
 <img 
     align="left"
     alt="Kotlin"
-    title="Kotlin,"
+    title="Kotlin"
     width="35px"
     style="padding-right:10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
     <img 
     align="left"
     alt="NodeJs"
-    title="Node.js,"
+    title="Node.js"
     width="35px"
     style="padding-right:10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img 
     align="left"
     alt="React"
-    title="React,"
+    title="React"
     width="35px"
     style="padding-right:10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
