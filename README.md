@@ -84,9 +84,9 @@ Tenho 22 anos e estudo Análise e Desenvolvimento de Sistemas no IFPE Garanhuns.
 
 <p>
   <img 
-    align="center" 
+    align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="160" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=mayx2&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br" 
   />
@@ -94,7 +94,7 @@ Tenho 22 anos e estudo Análise e Desenvolvimento de Sistemas no IFPE Garanhuns.
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="160" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayx2&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
