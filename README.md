@@ -84,7 +84,7 @@ Tenho 22 anos e estudo Análise e Desenvolvimento de Sistemas no IFPE Garanhuns.
 
 <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
