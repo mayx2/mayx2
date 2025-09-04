@@ -20,8 +20,8 @@ Tenho 22 anos e estudo Análise e Desenvolvimento de Sistemas no IFPE Garanhuns.
 
 ---
 ### 🤖Linguagens e Tecnologias 
-
-<img
+<div>
+    <img
     align="left"
     alt="Java"
     title="Java"
@@ -29,7 +29,7 @@ Tenho 22 anos e estudo Análise e Desenvolvimento de Sistemas no IFPE Garanhuns.
     style="padding-right:10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
  />
- <img 
+    <img 
     align="left"
     alt="JavaScript"
     title="JavaScript,"
@@ -37,7 +37,7 @@ Tenho 22 anos e estudo Análise e Desenvolvimento de Sistemas no IFPE Garanhuns.
     style="padding-right:10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
- <img 
+    <img 
     align="left"
     alt="CSS"
     title="CSS,"
@@ -45,8 +45,7 @@ Tenho 22 anos e estudo Análise e Desenvolvimento de Sistemas no IFPE Garanhuns.
     style="padding-right:10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
-
-<img 
+    <img 
     align="left"
     alt="GIT"
     title="GIT,"
@@ -61,7 +60,7 @@ Tenho 22 anos e estudo Análise e Desenvolvimento de Sistemas no IFPE Garanhuns.
     width="35px"
     style="padding-right:10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-<img 
+    <img 
     align="left"
     alt="NodeJs"
     title="Node.js,"
@@ -76,6 +75,7 @@ Tenho 22 anos e estudo Análise e Desenvolvimento de Sistemas no IFPE Garanhuns.
     style="padding-right:10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+</div>
 <br/>
 <br/>
 
