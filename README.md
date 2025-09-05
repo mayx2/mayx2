@@ -1,21 +1,32 @@
-# Hello World, eu sou Maria Máyra💛
-
-**`Estudante de ADS`**
-
-Tenho 22 anos e estudo Análise e Desenvolvimento de Sistemas no IFPE Garanhuns. Sou fascinada por tecnologia e programação e, mesmo estando no início da minha jornada na área, estou sempre buscando aprender e me desenvolver com novos projetos e desafios. Atualmente, estou em busca de um estágio para colocar meus conhecimentos em prática e crescer profissionalmente.
+|                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                 |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| <h1>Hello World, eu sou Maria Máyra💛</h1> <br> <b><code>Estudante de ADS</code></b> <br><br> Tenho 22 anos e estudo Análise e Desenvolvimento de Sistemas no IFPE Garanhuns. Sou fascinada por tecnologia e programação e, mesmo estando no início da minha jornada na área, estou sempre buscando aprender e me desenvolver com novos projetos e desafios. Atualmente, estou em busca de um estágio para colocar meus conhecimentos em prática e crescer profissionalmente. | <img src="/meu-gif.gif" alt="GIF" width="250"/> |
 
 
 <div>
     <a href="https://www.linkedin.com/in/m%C3%A1yra-andrade-b77961231/">
-    <img
-        align="left"
-        alt="linkedin"
-        title="linkedin"
-        width="35px"
-    style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+        <img
+            align="left"
+            alt="linkedin"
+            title="linkedin"
+            width="35px"
+            style="padding-right:10px" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+        />
+    </a>
+    <a href="mailto:mayraandrade191102@gmail.com">
+        <img
+            align="left"
+            alt="gmail"
+            title="gmail"
+            width="35px"
+            style="padding-right:10px"
+            src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"
+        />
+    </a>
 </div>
-</br>
-</br>
+<br/>
+
 
 
 ---
