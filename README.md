@@ -2,30 +2,12 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
 | <h1>Hello World, eu sou Maria Máyra💛</h1> <br> <b><code>Estudante de ADS</code></b> <br><br> Tenho 22 anos e estudo Análise e Desenvolvimento de Sistemas no IFPE Garanhuns. Sou fascinada por tecnologia e programação e, mesmo estando no início da minha jornada na área, estou sempre buscando aprender e me desenvolver com novos projetos e desafios. Atualmente, estou em busca de um estágio para colocar meus conhecimentos em prática e crescer profissionalmente. | <img src="/meu-gif.gif" alt="GIF" width="250"/> |
 
-
 <div>
-    <a href="https://www.linkedin.com/in/m%C3%A1yra-andrade-b77961231/">
-        <img
-            alt="linkedin"
-            title="LinkedIn"
-            width="35px"
-            style="padding-right:10px"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-        />
-    </a>
-    <a href="mailto:mayraandrade191102@gmail.com">
-        <img
-            alt="gmail"
-            title="Gmail"
-            width="35px"
-            style="padding-right:10px"
-            src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"
-        />
-    </a>
+     <a href="https://www.linkedin.com/in/m%C3%A1yra-andrade-b77961231/"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href="mailto:mayraandrade191102@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+     </a>      
 </div>
-
-<br/>
-
+</br>
 
 
 ---
