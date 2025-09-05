@@ -6,25 +6,24 @@
 <div>
     <a href="https://www.linkedin.com/in/m%C3%A1yra-andrade-b77961231/">
         <img
-            align="left"
             alt="linkedin"
-            title="linkedin"
+            title="LinkedIn"
             width="35px"
-            style="padding-right:10px" 
+            style="padding-right:10px"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
         />
     </a>
     <a href="mailto:mayraandrade191102@gmail.com">
         <img
-            align="left"
             alt="gmail"
-            title="gmail"
+            title="Gmail"
             width="35px"
             style="padding-right:10px"
             src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"
         />
     </a>
 </div>
+
 <br/>
 
 
